@@ -7,7 +7,7 @@ on:
     - main
 
 env:
-  AZURE_WEBAPP_NAME: azureabcdlasinda
+  AZURE_WEBAPP_NAME: Azure_Using_GitHub_Actions
   AZURE_WEBAPP_PACKAGE_PATH: "./publish"
 
 jobs:
