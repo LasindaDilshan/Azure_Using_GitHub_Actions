@@ -11,6 +11,8 @@ Then Create Web app Service using Azure. (Example : 'azureabcdlasinda').
 
 Then download app Service(azureabcdlasinda) Get Publish Profile file.(Refer above attachment).
 
+Then go to 'Azure_Using_GitHub_Actions' project Git Hub Settings  -> Secrets ->  Add New Publish Profile called 'AZURE_PUBLISH_PROFILE' and past Publish Profile file content.
+
 
 
 
