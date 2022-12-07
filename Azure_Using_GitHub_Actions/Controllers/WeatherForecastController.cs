@@ -24,7 +24,7 @@ namespace Azure_Using_GitHub_Actions.Controllers
         public IEnumerable<String> Get()
         {
            
-            yield return "Azure_Deployement_Using_GitHub_Actions";
+            yield return "Test";
         }
     }
 }
