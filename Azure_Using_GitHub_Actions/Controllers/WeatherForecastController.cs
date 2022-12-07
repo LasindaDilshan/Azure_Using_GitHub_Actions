@@ -23,7 +23,8 @@ namespace Azure_Using_GitHub_Actions.Controllers
         [HttpGet(Name = "GetWeatherForecast")]
         public IEnumerable<String> Get()
         {
-            yield return "THISARI";
+           
+            yield return "TEST";
         }
     }
 }
